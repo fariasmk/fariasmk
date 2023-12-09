@@ -19,9 +19,11 @@
   💻 Amo programar e aprender cada vez mais sobre isso!
   <br>
   <br>
-  💬 Acesse meu Curricúlo Online <a href="https://fariasmk.github.io/"> Aqui</a>
+  💻 Acesse meu Curricúlo Online <a href="https://fariasmk.github.io/"> Aqui</a>
   <br>
   📫 Caso queira, envie um email para: <a href="mailto: fariasmk@hotmail.com">fariasmk@hotmail.com</a>
+  <br>
+  💬 Ou entre em contato pelo Whattsapp 19 987450604
   <br>
   <br>
 </p>
