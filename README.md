@@ -12,15 +12,17 @@
   Olá, Sou Maikon Farias, Backend Develper com 4 anos de experiência em Programação
   <br>
   <br>
-  🔬 Nesses últmos anos venho me aperfeiçoando em APIs rest, Spring,<br>Microservices, Java, Mensageria, entre outras tecnologias
+  🔬 Nesses últmos anos venho me aperfeiçoando em APIs REST, Spring,<br>Microservices, Java, Mensageria, entre outras tecnologias
   <br>
-  🎓 Sou formado em técnico em Automação Industrial e estou  cursando Ciência de Dados.
+  🎓 Sou formado técnico em Automação Industrial e estou  cursando Ciência de Dados.
   <br>
   💻 Amo programar e aprender cada vez mais sobre isso!
   <br>
-  💬 Acesse meu Curricúlo Online <https://fariasmk.github.io/index.html#index.html#home>
+  <br>
+  💬 Acesse meu Curricúlo Online [Aqui](https://fariasmk.github.io/index.html#index.html#home "Website de Maikon Farias")
   <br>
   📫 Caso queira, envie um email para: <a href="mailto: fariasmk@hotmail.com">fariasmk@hotmail.com</a>
+  <br>
 </p>
 
 <p align="center">
