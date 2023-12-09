@@ -19,9 +19,10 @@
   💻 Amo programar e aprender cada vez mais sobre isso!
   <br>
   <br>
-  💬 Acesse meu Curricúlo Online [Aqui](https://fariasmk.github.io/index.html#index.html#home "Website de Maikon Farias")
+  💬 Acesse meu Curricúlo Online <a href="https://fariasmk.github.io/index.html#index.html#home">Aqui</a>
   <br>
   📫 Caso queira, envie um email para: <a href="mailto: fariasmk@hotmail.com">fariasmk@hotmail.com</a>
+  <br>
   <br>
 </p>
 
