@@ -12,7 +12,7 @@
   Olá, Sou Maikon Farias, Backend Develper com 4 anos de experiência em Programação
   <br>
   <br>
-  🔬 Nesses últmos anos venho me aperfeiçoando em APIs REST, Spring,<br>Microservices, Java, Mensageria, entre outras tecnologias
+  🔬 Nesses últmos anos venho me aperfeiçoando em APIs REST, Spring,<br>Microservices, Java, Mensageria, entre outras tecnologias.
   <br>
   🎓 Sou formado técnico em Automação Industrial e estou  cursando Ciência de Dados.
   <br>
