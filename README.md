@@ -9,6 +9,21 @@
 </div>
 
 <p align="center">
+  Olá, Sou Maikon Farias, Backend Develper com 4 anos de experiência em Programação
+  <br>
+  <br>
+  🔬 Nesses últmos anos venho me aperfeiçoando em APIs rest, Spring,<br>Microservices, Java, Mensageria, entre outras tecnologias
+  <br>
+  🎓 Sou formado em técnico em Automação Industrial e estou  cursando Ciência de Dados.
+  <br>
+  💻 Amo programar e aprender cada vez mais sobre isso!
+  <br>
+  💬 Acesse meu Curricúlo Online <https://fariasmk.github.io/index.html#index.html#home>
+  <br>
+  📫 Caso queira, envie um email para: <a href="mailto: fariasmk@hotmail.com">fariasmk@hotmail.com</a>
+</p>
+
+<p align="center">
   <img height="520px" src="https://github.com/ValdirCezar/Autenticacao-Tokens-JWT/blob/master/src/imd-readme.gif?raw=true" />
 
 
